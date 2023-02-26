@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author ADMN
- *
- */
-module DataTypes {
-}
